@@ -21,3 +21,5 @@ https://www.youtube.com/watch?v=sxErFMF7BJY
 https://www.youtube.com/watch?v=F2HaWcqDvMI
 
 5. Other General Resources: GitHub has many, many helpful documents and tuorials: https://docs.github.com/en; Dr. Pat Schloss's youtube channel Code Club has many useful videos also: https://youtube.com/playlist?list=PLmNrK_nkqBpKY3SZiivlIGvcLX-KHmfR8
+
+6. Please e-mail a thank you to Hava Blair (blair304@umn.edu) and Emma Link (link0126@umn.edu). They are past graduate students and were invaluable in setting up this GitHub organization, and still contribute! Thank you Emma and Hava! We have tried at the top of each set of code to write the original author or main contributors. We might have missed some but will keep doing our best to give credit.
