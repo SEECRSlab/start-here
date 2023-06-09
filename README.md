@@ -20,4 +20,4 @@ https://www.youtube.com/watch?v=sxErFMF7BJY
 
 https://www.youtube.com/watch?v=F2HaWcqDvMI
 
-5. Other Resources: GitHub has many, many helpful documents and tuorials: https://docs.github.com/en; More generally, Dr. Pat Schloss's youtube channel code club has many useful videos: https://youtube.com/playlist?list=PLmNrK_nkqBpKY3SZiivlIGvcLX-KHmfR8
+5. Other General Resources: GitHub has many, many helpful documents and tuorials: https://docs.github.com/en; Dr. Pat Schloss's youtube channel Code Club has many useful videos also: https://youtube.com/playlist?list=PLmNrK_nkqBpKY3SZiivlIGvcLX-KHmfR8
