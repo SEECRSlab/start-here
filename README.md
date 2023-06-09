@@ -19,3 +19,5 @@ https://www.youtube.com/watch?v=sxErFMF7BJY
 4. (much longer, but nice if you have time) Integrate GitHub into your workflow, Women in Soil Ecology Workshop  (2+ hr)
 
 https://www.youtube.com/watch?v=F2HaWcqDvMI
+
+5. Other Resources: GitHub has many, many helpful documents and tuorials: https://docs.github.com/en; More generally, Dr. Pat Schloss's youtube channel code club has many useful videos: https://youtube.com/playlist?list=PLmNrK_nkqBpKY3SZiivlIGvcLX-KHmfR8
